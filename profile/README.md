@@ -19,6 +19,6 @@ PlayWithLLM is a powerful and user-friendly system designed to streamline intera
 
 To get started with PlayWithLLM, follow the installation and setup instructions below:
 
-<video src="./pwllm-up-and-running.webm" controls></video>
+[![PlayWithLLM Setup Guide](https://img.youtube.com/vi/lLNEHqfQvHo/0.jpg)](https://www.youtube.com/watch?v=lLNEHqfQvHo)
 
 For more detailed documentation, please refer to the resources provided in this repository.
